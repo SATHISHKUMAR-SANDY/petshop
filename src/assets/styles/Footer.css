@@ -1,0 +1,26 @@
+.footer-Container{
+    background-color:#EEC14C;
+}
+.footer-rgt-1-ul{
+list-style: none;
+position: relative;
+left: -25px;
+}
+.Footer-icons{
+    margin-right: 15px;
+    color: #FD8350;
+    font-size: 30px;
+}
+.footer-right-2-icons{
+    color: #FD8350;
+    margin-right: 10px;
+    font-size: 24px;
+}
+.form-popup{
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    top: -10px;
+    left: 200px;
+    background-color: #FD8350 ;
+}

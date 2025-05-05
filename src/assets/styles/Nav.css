@@ -1,0 +1,63 @@
+.custom-navbar{
+    background-color:#EEC14C;
+}
+.custom-search-input{
+    width: 800px;
+    border: 1px white solid;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.custom-search-input::placeholder{
+    padding-left: 15px;
+    color: white;
+}
+.dropdown-menus{
+    background-color: transparent;
+    
+}
+.nav-dropp-listes{
+    color: #EEC14C;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.arrow{
+    position: relative;
+    left: 5px;
+    font-size: 30px;
+}
+.dropdown-menus li{
+    text-align: center;
+    margin-top: 2px;
+}
+.delivery-input{
+    width: 300px;
+    border: 1px white solid;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.delivery-input::placeholder{
+    padding-left: 15px;
+    color: white;
+}
+.location,.cart{
+    font-size: 30px;
+    color: white;
+}
+input:focus {
+    outline: none;
+    box-shadow: none;
+
+  }
+  .form-select {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding-left: 10px;
+  }
+  
+  .form-select option {
+    background-color: transparent;
+    color: black;
+  }

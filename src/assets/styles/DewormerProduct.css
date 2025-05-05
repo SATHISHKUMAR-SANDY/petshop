@@ -1,0 +1,74 @@
+/* DewormerProduct.css */
+.dewormer-product {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .product-header {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 20px;
+  }
+  
+  .product-header h1 {
+    color: #2E7D32;
+    margin-bottom: 10px;
+  }
+  
+  .product-subtitle {
+    font-size: 1.1em;
+    color: #666;
+    font-style: italic;
+  }
+  
+  .product-description {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .product-details h2, .product-details h3, .product-details h4 {
+    color: #2E7D32;
+  }
+  
+  .composition-section, .class-section, .benefits-section, .spectrum-section, .directions-section {
+    margin-bottom: 25px;
+    padding: 15px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  .composition-section ul, .benefits-section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .spectrum-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .nematodes, .cestodes {
+    background-color: #e8f5e9;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .nematodes h4, .cestodes h4 {
+    margin-top: 0;
+    border-bottom: 1px solid #a5d6a7;
+    padding-bottom: 5px;
+  }
+  
+  @media (max-width: 600px) {
+    .spectrum-grid {
+      grid-template-columns: 1fr;
+    }
+  }

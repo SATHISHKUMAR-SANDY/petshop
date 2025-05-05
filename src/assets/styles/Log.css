@@ -1,0 +1,28 @@
+.custom-login-modal .modal-content {
+  background-color: #FF7F50; /* Coral orange */
+  border-radius: 20px;
+}
+
+.custom-login-modal .modal-header .btn-close {
+  background-color: transparent;
+}
+
+.custom-login-modal input::placeholder {
+  color: #aaa;
+  font-weight: 500;
+}.signup-modal-custom .modal-content {
+  background-color: #FF7F50;
+  border-radius: 25px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.signup-modal-custom .form-control::placeholder {
+  color: #aaa;
+  font-weight: 500;
+}
+
+.signup-modal-custom .btn-light {
+  border: 1px solid #ccc;
+  font-weight: bold;
+}

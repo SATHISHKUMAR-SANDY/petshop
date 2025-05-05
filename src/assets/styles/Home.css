@@ -1,0 +1,87 @@
+.custom-shopbyPetStore {
+    background-color: #EEC14C;
+  }
+  .ExplorePets {
+    background-color: #EEC14C !important;
+  }
+  .EclipseBorder {
+    border-top: #EEC14C solid 5px;
+    border-bottom: #FFF solid 5px;
+    position: relative;
+    top: 10px;
+  }
+  .eclipsecontent {
+    background-color: #EEC14C;
+    border-radius: 3px;
+    text-align: center;
+    bottom: -10px;
+  }
+  .consult-container {
+    border: solid 2px #EEC14C !important;
+    border-radius: 10px;
+  }
+  .consult-btn {
+    background-color: #FF7A51 !important;
+    padding: 25px 90px !important;
+  }
+  
+  /* ✅ Mobile: 0px – 767.98px */
+  @media (max-width: 767.98px) {
+    .consult-btn {
+      padding: 10px 40px !important;
+      font-size: 1rem !important;
+    }
+  
+    .consul1-col1 {
+      margin-bottom: 30px;
+      text-align: center;
+    }
+  
+    .consult-container img {
+      height: auto !important;
+      max-height: 300px;
+    }
+  
+    .fs-3 {
+      font-size: 1.2rem !important;
+    }
+  
+    .fs-1 {
+      font-size: 1.5rem !important;
+    }
+  }
+  
+  /* ✅ Tablet: 768px – 991.98px */
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .consult-btn {
+      padding: 15px 60px !important;
+      font-size: 1.2rem !important;
+    }
+  
+    .consult-container img {
+      height: 100vh !important;
+    }
+  
+    .fs-3 {
+      font-size: 1.5rem !important;
+    }
+  
+    .fs-1 {
+      font-size: 2rem !important;
+    }
+  }
+  
+  /* ✅ Small Desktop/Laptop: 992px – 1199.98px */
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    .consult-container img {
+      height: 60vh !important;
+    }
+  }
+  
+  /* ✅ Large Desktop: 1200px and above */
+  @media (min-width: 1200px) {
+    .consult-container img {
+      height: 75vh !important;
+    }
+  }
+  

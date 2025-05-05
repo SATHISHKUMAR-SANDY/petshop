@@ -1,0 +1,148 @@
+{
+  "husky": [
+    {"midbanner":"src/assets/images/Mask group.png",
+      "profileImage": "/src/assets/images/Ellipse 17.png",
+      "stickerimages": [
+        "/src/assets/images/husky1.png",
+        "/src/assets/images/husky2.png",
+        "/src/assets/images/husky3.png",
+        "/src/assets/images/husky4.png"
+      ],
+      "dietcardimages": [
+        "/src/assets/images/husky11.png",
+        "/src/assets/images/husk2.png",
+        "/src/assets/images/huky3.png",
+        "/src/assets/images/44.png"
+      ],
+      "PetPreedA": {
+        "preed": "Siberian Husky: Wolvish",
+        "place2": "Explorers Of The Canine\nWorld",
+        "place": "Elegant Descendents Of Siberia's Snowy Kingdom"
+      },
+      "secondbanner": "/src/assets/images/hukybanner.png",
+      "petbody": {
+        "Coat": "Thick and Double Coated",
+        " Shedding": "Medium",
+        "Size": "Medium",
+        "LifeExpectancy": "12–14 years"
+      },
+      "petcolors": [
+        "Black and White",
+        "Gray and White",
+        "Dark brown and White"
+      ],
+      "petweight": {
+        "male": "20-27kg(male)",
+        "female": "16-23kg(female)"
+      },
+      "petheight": {
+        "male": "53-60(male)",
+        "female": "5-56(female)"
+      },
+      "temprate": {
+        "hot": "up to 30&deg;",
+        "cold": "up to -6.7&deg;"
+      },
+      "diet": {
+        "diehead": "Consider following tips when choosing food for your Siberian Husky.",
+        "dietfirsttitle": "1. Choose a Protein-Rich Diet",
+        "dietsecondtitle": "2. Essential Fatty Acids",
+        "dietfirstcontent": "Huskies are medium breed dogs that require a diet rich in protein to support their active lifestyle and muscle development. Look for food that contains quality animal-based lean proteins, such as chicken or fish.",
+        "dietsecondcontent": "Huskies have a thick double coat that requires a diet which includes essential fatty acids to keep them healthy and shiny. Look for food that contains Omega-3 and Omega-6 fatty acids."
+      },
+      "training": "Huskies are celebrated for their exceptional  and\n eagerness to excel in training sessions. Discover activities to keep\nthem happy and healthy.",
+      "trainingGadgets": [
+        "/src/assets/images/coller.png",
+        "/src/assets/images/ball.png",
+        "/src/assets/images/roap.png"
+      ],
+      "traingGadgetstittle": ["Coller,Leashes", "Rope toys", "intravive toys"],
+      "cornerimge": "/src/assets/images/carnerbanner.png",
+      "groomingContent": "Proper grooming is important for Pugs,\neven though they have a short and smooth\n coat. Let's see the essential aspects of\n grooming for Pugs.",
+      "groomingimge": "src/assets/images/Mask group.png",
+      "brushandbathcontent": " Huskies, with their thick double coat, require regular brushingto prevent matting, remove loose fur. Bathe them occasionally using a dog-specific shampoo to keep them fresh and clean.",
+      "detalcontent": "Maintain your Husky's oral hygiene by brushing their teeth with a dog-specific toothbrush and toothpaste, and enhance dental care with dental chews or toys.",
+      "detalcareimage": "/src/assets/images/dentalhusky.png",
+      "brush": "/src/assets/images/brush.png",
+      "sampo": "/src/assets/images/sampu.png",
+      "cardT":["Chicken Based Food","Fish Based Food","Dog Penut Butter","Salamen Oil"]
+    }
+  ],
+
+
+
+
+
+
+
+  "pug": [
+    {
+      "midbanner":"/src/assets/images/cc.png",
+      "profileImage": "/src/assets/images/Ellipse 7.png",
+      "stickerimages": [
+        "/src/assets/images/pugstick1.png",
+        "/src/assets/images/pugstick2.png",
+        "/src/assets/images/pugstick3.png",
+        "/src/assets/images/pugstick4.png"
+      ],
+      "dietcardimages": [
+        "/src/assets/images/pugdiet1.png",
+        "/src/assets/images/pugdiet2.png",
+        "/src/assets/images/pugdiet3.png",
+        "/src/assets/images/pugdiet4.png"
+      ],
+      "PetPreedA": {
+        "preed": "Pug:",
+        "place2": "Royal Naptime\nChampions        ",
+        "place": "Royal Naptime Champions"
+      },
+      "secondbanner": "/src/assets/images/pusec.png",
+      "petbody": {
+        "Coat": "Short, Smooth and Glossy",
+        " Shedding": "Medium",
+        "Size": "Small",
+        "LifeExpectancy": "12–15 years"
+      },
+      "petcolors": [
+        "Fawn",
+        "Black",
+        "Silver"
+      ],
+      "petweight": {
+        "male": "6.3–8.2 kg (male)",
+        "female": "5.9–7.7 kg (female)"
+      },
+      "petheight": {
+        "male": "30–36 cm (male)",
+        "female": "25–30 cm (female)"
+      },
+      "temprate": {
+        "hot": "up to 32°C",
+        "cold": "up to -10°C"
+      },
+      "diet": {
+        "diehead": "Consider following tips when choosing food for your Pug.",
+        "dietfirsttitle": "1. Choose a balanced diet",
+        "dietsecondtitle": " 2. Quality food",
+        "dietfirstcontent": "Pugs benefit from a well-rounded diet that includes a mix of proteins, carbohydrates, fats, vitamins, and minerals. Select a high-quality dry kibble or wet food designed for small breeds.",
+        "dietsecondcontent": "Choose high-quality dog food that’s appropriate for your Pug’s age (puppy, adult, or senior). Ensure the food contains ingredients like meat, vegetables, and grains to meet your Pug’s nutritional needs."
+      },
+      "training": "Huskies are celebrated for their exceptional adaptability and eagerness to excel in training sessions. Discover activities to keep them happy and healthy.",
+      "trainingGadgets": [
+        "/src/assets/images/coller.png",
+        "/src/assets/images/ball.png",
+        "/src/assets/images/roap.png"
+      ],
+      "traingGadgetstittle": ["Coller,Leashes", "Rope toys", "intravive toys"],
+      "cornerimge": "/src/assets/images/thirdb.png",
+      "groomingContent": "Proper grooming is important for Pugs,\n even though they have a short and smooth\n coat. Let's see the essential aspects of\n grooming for Pugs.",
+      "groomingimge": "src/assets/images/Mask group.png",
+      "brushandbathcontent": " Huskies, with their thick double coat, require regular brushingto prevent matting, remove loose fur. Bathe them occasionally using a dog-specific shampoo to keep them fresh and clean.",
+      "detalcontent": "Maintain your Husky's oral hygiene by brushing their teeth with a dog-specific toothbrush and toothpaste, and enhance dental care with dental chews or toys.",
+      "detalcareimage": "/src/assets/images/pugd.png",
+      "brush": "/src/assets/images/brush.png",
+      "sampo": "/src/assets/images/sampu.png",
+      "cardT":["Dry food,Wet food","Dry Packed food","Puppy food"]
+    }
+  ]
+}

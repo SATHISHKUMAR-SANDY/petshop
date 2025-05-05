@@ -1,0 +1,91 @@
+.husky-container {
+  margin-top: 170px;
+}
+
+.Husky-logo-cont {
+  background-color: #eec14c;
+  text-align: center;
+  width: 130px;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 15px auto 0; /* Center logo on mobile/tablet */
+}
+
+.huskyBorder {
+  border-top: #eec14c solid 5px;
+  border-bottom: #fff solid 5px;
+  width: 200px;
+  position: relative;
+  top: 10px;
+}
+
+.husky-img {
+  width: 90px;
+  height: 80px;position: relative;
+  top: -10px;
+}
+
+.husky-square {
+  background-color: #ff7a51;
+  border-radius: 10px;
+  transition: transform 0.2s;
+}
+
+.husky-square:hover {
+  transform: scale(1.02);
+}
+.custom-underline {
+  text-decoration: underline;
+  text-decoration-color: #1e73bd;
+}
+
+.about-main-husky {
+  margin: 100px 0px;
+}
+.about-main-husky-row {
+  border: solid 2px #eec14c;
+  border-radius: 10px;
+
+}
+.wight-height{
+  border-left: solid 2px #eec14c;
+  border-right: solid 2px #eec14c;
+}
+.color-box{
+  border: solid 1px #eec14c;
+}
+
+.bg-orange {
+  background-color: #ff7a3d; /* Adjust to match exact orange tone from image */
+}
+
+.border-orange {
+  border-color: #ff7a3d !important;
+}
+
+.cardPage {
+  text-align: center;
+  width: 100%;
+  background-color: #eec14c;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-imge {
+  padding: 10px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.btnCard {
+  background-color: #ff7a3d !important;
+  border: none;
+  color: white;
+}
+
+.mid-banner-overly{
+  position: relative;
+  top: 50px;
+  left: 80px;
+}

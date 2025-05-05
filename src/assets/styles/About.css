@@ -1,0 +1,32 @@
+.about-container {
+    padding: 40px 20px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fffdfb;
+  }
+  
+  .intro-text p {
+    font-size: 25px;
+    font-weight: bold;
+    /* margin: 10px 0; */
+  }
+
+  .intro-text{
+    position: relative;
+    top: -80px;
+    left: 20px;
+  }
+  .vision, .mission {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .vision h2, .mission h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .vision p, .mission p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  

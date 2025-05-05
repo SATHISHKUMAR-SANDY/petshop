@@ -1,0 +1,24 @@
+.contact-us {
+    max-width: 800px;
+    margin: 150px auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .contact-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .contact-question {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  .contact-message {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
+  }

@@ -1,0 +1,94 @@
+Doctor Video Call Modal Styles
+.signup-modal-custom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1050;
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    background-color: #FF7F50;
+    border-radius: 16px;
+    position: relative;
+  }
+  
+  /* Modal Header */
+  .modal-header {
+    border-bottom: none;
+    padding: 1.5rem;
+  }
+  
+  .modal-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
+  .btn-close {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+  }
+  
+  /* Modal Body */
+  .modal-body {
+    padding: 2rem;
+  }
+  
+  .dimg {
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Doctor's Image */
+  /* .modal-body img {
+    width: 70%;
+    border: 2px solid #000;
+    max-width: 100%;
+  } */
+  
+  /* Patient's Thumbnail */
+  .position-absolute {
+    bottom: 20px;
+    right: 60px;
+    text-align: center;
+  }
+  
+  /* Video Call Control Icons */
+  .text-center {
+    padding-top: 1.5rem;
+  }
+  
+  .fs-4 {
+    font-size: 1.5rem;
+  }
+  
+  /* .d-flex {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+  } */
+  
+  .bi {
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .bi:hover {
+    transform: scale(1.2);
+  }
+  
+  .bi-telephone-x-fill {
+    color: #dc3545;
+  }
+  
+  .bi-volume-up-fill, .bi-camera-video-fill, .bi-mic-fill {
+    color: #fff;
+  }
+  
+  .bi-person-circle {
+    color: #fff;
+  }
+  
