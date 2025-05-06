@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Outlet, useParams } from "react-router-dom";
 import axios from "axios";
 import { Container, Form } from "react-bootstrap";
-import Paymentpop from "./paymentpop";
+import Paymentpop from "./Paymentpop";
 
 export default function Paymentpage() {
   const { id } = useParams();
