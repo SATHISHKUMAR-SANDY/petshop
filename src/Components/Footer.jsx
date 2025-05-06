@@ -5,7 +5,7 @@ import { CiInstagram, CiFacebook } from "react-icons/ci";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { FaPhoneAlt } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import DocterVideocal from "./docterVideocal";
+import DocterVideocal from "./DocterVideocal";
 import Chatvet from "./Chatvet";
 import { useNavigate } from "react-router-dom";
 
