@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { CiHeart } from "react-icons/ci";
 import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
-import "../assets/styles/DproductD"
+import "../assets/styles/productD.css"
 
 function ProductDetails() {
   const { id } = useParams();
